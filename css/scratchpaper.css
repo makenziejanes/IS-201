@@ -1,0 +1,37 @@
+body{
+    background-color: whitesmoke;
+    
+    
+}
+header{
+    text-align: center;
+}
+.main{
+    font-size: larger;
+
+}
+h1{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+}
+#youtubevideo{
+    color: navy;
+}
+h4{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.commonfooter {
+    font-size: smaller;
+    color: gray;
+}
+.commonheader {
+    font-weight: 800;
+    font-size: larger;
+    color: white
+}
